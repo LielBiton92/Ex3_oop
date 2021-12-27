@@ -1,6 +1,6 @@
 # README - OOP Ex3
 
-*Authors: Lior Abramovich & Liel Biton*
+*Authors: Liel Biton Lior  & Abramovich*
 
 ![A4](https://cdn.discordapp.com/attachments/906164582983299074/925014821513101352/unknown.png)
 
