@@ -40,7 +40,7 @@ now type:
 
 - [*Dijkstra*](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
-- [*Strongly Connected*](https://www.geeksforgeeks.org/check-if-a-directed-graph-is-connected-or-not/)
+- [*strongly connected components*](https://www.geeksforgeeks.org/check-if-a-directed-graph-is-connected-or-not/)
 
 ## *UML*
 
