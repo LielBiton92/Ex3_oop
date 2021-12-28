@@ -96,7 +96,13 @@ class DiGraph(GraphInterface):
         return None
 
     def __str__(self):
-        return f"Graph: |V|=: {self.v_size()} |E|: {self.e_size()} \n,outedges: {self._edges_out}\n inedges: {self._edges_in}"
+        return f"Graph: |V|={self.v_size()} |E|={self.e_size()}"
 
     def __repr__(self):
-        return f"Graph: |V|=4{self.v_size()} |E|: {self.e_size()}\n ,outedges: {self._edges_out}\n inedges: {self._edges_in}"
+        return f"Graph: |V|=4{self.v_size()} |E|={self.e_size()}"
+
+    # def __str__(self):
+    #     return f"Graph: |V|={self.v_size()} |E|:{self.e_size()} \n,outedges: {self._edges_out}\n inedges: {self._edges_in}"
+    #
+    # def __repr__(self):
+    #     return f"Graph: |V|=4{self.v_size()} |E|: {self.e_size()}\n ,outedges: {self._edges_out}\n inedges: {self._edges_in}"
